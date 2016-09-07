@@ -1,0 +1,8 @@
+le code se compose de :
+- une fonction principale main
+- une page qui regroupe toutes les fonctions relatives aux coins
+  (fonction principale de recherche des coins, différentes methodes de recherche de coins, une fonction qui dessine les coins et une qui trace les contours)otqtion 
+- une page rotationPoints associee a la page Coins qui comtient la fonction auxiliaire de rotation des coins utilisee dans l'une des methodes de detection
+- une page filtre qui contient les filtres appliques aux contours avant traitememt
+- une page traitememt qui regroupe les fonctions relatives au post-traitememt des coins trouves pour les rendre exploitables par l'algorithme des distances
+- une page distance qui contient l'algorithme des distances relatives
